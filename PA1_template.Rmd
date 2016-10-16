@@ -20,7 +20,7 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 
 ```{r setoptions, echo=FALSE}
 library(knitr)
-opts_chunk$set(echo = TRUE)
+opts_chunk$set(echo = TRUE, display="ASIS")
 ```
 
 #Preparation Steps
